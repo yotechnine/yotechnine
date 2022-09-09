@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yotechnine
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning #c language
+- 🌱 I’m currently learning c language
 
 
 
